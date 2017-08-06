@@ -31,6 +31,8 @@ intermediate level anonymizer which uses VPN
 
 
 ###### NOTE
+Currently only supports arch(arch users i think you have enouh knowledge to read the setup.sh and install the dependencies manually rest will work i guess not tsted on arch though)
+
 All the vpn i used here is from http://www.vpngate.net/en/
 
 This script comes with no guarantee for anonymity use it at your own risk
