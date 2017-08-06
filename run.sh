@@ -284,6 +284,7 @@ case "$1" in
 		change
 	;;
 	-c)
+		amiroot
 		banner
 		uninstall
 	;;
