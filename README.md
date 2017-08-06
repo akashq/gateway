@@ -1,5 +1,9 @@
 # gateway
-intermediate level anonymizer which uses VPN  
+Advanced anonymizer which uses VPN  
+
+
+
+
 
 ## INSTALL
 
@@ -10,7 +14,6 @@ intermediate level anonymizer which uses VPN
 ## USAGE
 
 ┌──[root@wtf]─[/home]
-
 └──╼ $ gateway {-a|-d|-c|-r|-s|-i|-u}
 
 	-a Activate gateway	
@@ -21,8 +24,13 @@ intermediate level anonymizer which uses VPN
 	-i Check your ip and location
 	-u Uninstall gateway
 
+## FEATURES
 
-	
+- You can choose from different server from 11 countries
+- Different change and restart option
+- Easy installation and uninstallation process
+- Clear and easy to understandable status to see if its up or not and some more details
+
 ## EXPECTATION
 
 - tor support
@@ -30,7 +38,7 @@ intermediate level anonymizer which uses VPN
 
 
 
-###### NOTE
+##### NOTE
 Currently only supports arch(arch users i think you have enouh knowledge to read the setup.sh and install the dependencies manually rest will work i guess not tsted on arch though)
 
 All the vpn i used here is from http://www.vpngate.net/en/
