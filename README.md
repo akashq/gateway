@@ -36,7 +36,6 @@ Advanced anonymizer which uses VPN
 ## EXPECTATION
 
 - tor support
-- tor+vpn
 
 
 
