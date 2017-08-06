@@ -14,6 +14,7 @@ Advanced anonymizer which uses VPN
 ## USAGE
 
 ┌──[root@wtf]─[/home]
+|
 └──╼ $ gateway {-a|-d|-c|-r|-s|-i|-u}
 
 	-a Activate gateway	
@@ -30,6 +31,7 @@ Advanced anonymizer which uses VPN
 - Different change and restart option
 - Easy installation and uninstallation process
 - Clear and easy to understandable status to see if its up or not and some more details
+- Extended opttions to ensure anonymity
 
 ## EXPECTATION
 
