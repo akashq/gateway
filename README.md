@@ -1,6 +1,8 @@
 # gateway
 Advanced anonymizer which uses VPN  
 
+If you want a much simple version(not with this many options) use this: https://github.com/akashq/noob
+
 
 
 
