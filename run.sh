@@ -374,7 +374,7 @@ author: mr. ey3
 
 Usage:
 ┌──[root@shad0w]─[$PWD]
-└──╼ \$ gateway {-a|-d|-c|-r|-s|-i|-u}
+└──╼ \$ gateway {-a|-d|-c|-r|-s|-i|-u|--update}
 
 	-a Activate gateway	
 	-d Deactivate gateway
