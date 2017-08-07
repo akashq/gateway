@@ -1,5 +1,5 @@
 # gateway
-Advanced anonymizer which uses VPN  
+Advanced anonymizer which uses VPN (Debian only)
 
 If you want a much simple version(not with this many options) use this: https://github.com/akashq/noob
 
