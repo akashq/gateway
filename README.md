@@ -15,7 +15,7 @@ Advanced anonymizer which uses VPN
 
 ┌──[root@wtf]─[/home]
 |
-└──╼ $ gateway {-a|-d|-c|-r|-s|-i|-u}
+└──╼ $ gateway {-a|-d|-c|-r|-s|-i|-u|--update}
 
 	-a Activate gateway	
 	-d Deactivate gateway
@@ -24,6 +24,7 @@ Advanced anonymizer which uses VPN
 	-s Check the status of gateway
 	-i Check your ip and location
 	-u Uninstall gateway
+	--update
 
 ## FEATURES
 
@@ -32,6 +33,7 @@ Advanced anonymizer which uses VPN
 - Easy installation and uninstallation process
 - Clear and easy to understandable status to see if its up or not and some more details
 - Extended opttions to ensure anonymity
+- Update option is available now
 
 ## EXPECTATION
 
